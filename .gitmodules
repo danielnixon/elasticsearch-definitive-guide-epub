@@ -1,3 +1,6 @@
 [submodule "elasticsearch-definitive-guide"]
 	path = elasticsearch-definitive-guide
 	url = https://github.com/elastic/elasticsearch-definitive-guide.git
+[submodule "build"]
+	path = build
+	url = https://github.com/caarlos0/shell-ci-build.git

@@ -1,8 +1,5 @@
 language: bash
-sudo: false
-addons:
-  apt:
-    packages:
-    - shellcheck
+install:
+  - ./build/install.sh
 script:
-   - shellcheck ./*.sh
+  - ./build/build.sh
