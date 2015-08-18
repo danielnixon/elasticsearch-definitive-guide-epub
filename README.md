@@ -1,11 +1,11 @@
-Compile The Definitive Guide to Elasticsearch
+Compile The Definitive Guide to Elasticsearch [![Build Status](https://travis-ci.org/danielnixon/elasticsearch-definitive-guide-compiler.svg?branch=master)](https://travis-ci.org/danielnixon/elasticsearch-definitive-guide-compiler)
 =============================================
-Compile [The Definitive Guide to Elasticsearch](https://github.com/elastic/elasticsearch-definitive-guide) to EPUB.
+Build [The Definitive Guide to Elasticsearch](https://github.com/elastic/elasticsearch-definitive-guide) as an EPUB.
 
 Usage
 =====
 ```bash
 git clone https://github.com/danielnixon/elasticsearch-definitive-guide-compiler.git
 cd elasticsearch-definitive-guide-compiler
-./compile.sh # Outputs book.epub
+./build.sh # Outputs book.epub
 ```

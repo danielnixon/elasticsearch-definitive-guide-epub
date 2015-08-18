@@ -1,0 +1,8 @@
+language: bash
+sudo: false
+addons:
+  apt:
+    packages:
+    - shellcheck
+script:
+   - shellcheck ./*.sh
