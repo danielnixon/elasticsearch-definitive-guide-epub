@@ -1,6 +1,10 @@
 language: bash
-sudo: required
-install:
-  - ./build/install.sh
+sudo: false
+addons:
+  apt:
+    sources:
+    - debian-sid
+    packages:
+    - shellcheck
 script:
   - ./build/build.sh
