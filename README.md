@@ -1,4 +1,4 @@
-Build The Definitive Guide to Elasticsearch as an EPUB [![Build Status](https://travis-ci.org/danielnixon/elasticsearch-definitive-guide-epub.svg?branch=master)](https://travis-ci.org/danielnixon/elasticsearch-definitive-guide-epub)
+Build The Definitive Guide to Elasticsearch as an EPUB
 =============================================
 Build [The Definitive Guide to Elasticsearch](https://github.com/elastic/elasticsearch-definitive-guide) as an EPUB.
 
