@@ -8,6 +8,10 @@ Usage
 Install dependencies (assuming OS X and Homebrew):
 ```bash
 brew install asciidoc docbook2X
+```
+
+Optionally install Calibre (and its command line tools) if you want a mobi as well:
+```bash
 brew cask install calibre
 ```
 
