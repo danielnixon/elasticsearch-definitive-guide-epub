@@ -5,7 +5,7 @@ Build [The Definitive Guide to Elasticsearch](https://github.com/elastic/elastic
 Usage
 =====
 
-Install dependencies (assuming OS X and Homebrew):
+Install dependencies (assuming macOS and Homebrew):
 ```bash
 brew install asciidoc docbook2X
 ```
